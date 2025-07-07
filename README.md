@@ -1,2 +1,15 @@
 # SistemaBancario
-💳 CypherBank - Sistema Bancário em Java CypherBank é um sistema bancário completo, desenvolvido em Java utilizando a arquitetura MVC (Model-View-Controller) e a biblioteca Swing para interface gráfica. O projeto simula funcionalidades essenciais de um banco digital moderno, com uma experiência visual intuitiva, elegante e funcional.  🧠 Tecnologias Utilizadas Java SE  Swing (GUI)  JDBC + PostgreSQL (caso deseje adicionar isso se estiver utilizando banco de dados)  Arquitetura MVC  ✨ Funcionalidades 🔐 Cadastro e Login de Usuário Permite que novos usuários se cadastrem com nome completo, CPF e senha. A tela de login valida os dados e direciona o cliente à conta bancária.  🏦 Conta Bancária  Saudação personalizada ao usuário  Visualização do saldo em conta  Acesso rápido às funcionalidades de PIX e Cartões  Acesso ao extrato bancário  💸 Sistema de PIX  Depósito direto na conta  Transferência via CPF com validações  Atualização em tempo real do saldo  💳 Gerenciamento de Cartões  Exibição de cartão virtual com design estilizado  Visualização do limite de crédito disponível  📄 Ver Extrato  Histórico de operações realizadas (em construção ou integrado)  🖼️ Interface Moderna O layout foi cuidadosamente planejado para garantir clareza e usabilidade, com uma identidade visual profissional e responsiva. O painel lateral facilita a navegação entre as telas e o design flat acompanha tendências modernas de UI.  📁 Organização do Projeto view/: Telas gráficas com Swing (Login, Cadastro, Conta, PIX etc.)  controller/: Classes responsáveis pela lógica e controle das ações da interface  model/: Representação dos dados e regras de negócio  dao/: Acesso ao banco de dados.
+💳 CypherBank - Sistema Bancário em Java
+CypherBank é um sistema bancário completo, desenvolvido em Java utilizando a arquitetura MVC (Model-View-Controller) e a biblioteca Swing para interface gráfica. O projeto simula funcionalidades essenciais de um banco digital moderno, com uma experiência visual intuitiva, elegante e funcional. 
+Tecnologias Utilizadas:
+- Java SE  Swing.
+- JDBC + PostgreSQL.
+- Arquitetura MVC.
+
+ Funcionalidades:
+- Cadastro e Login de Usuário Permite que novos usuários se cadastrem com nome completo, CPF e senha.
+- A tela de login valida os dados e direciona o cliente à conta bancária.
+- Conta Bancária, Saudação personalizada ao usuário.
+- Visualização do saldo em conta.
+- Acesso rápido às funcionalidades de PIX e Cartões.
+- Acesso ao extrato bancário. 
