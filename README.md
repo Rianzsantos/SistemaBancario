@@ -1,4 +1,4 @@
-# SistemaBancario
+# CypherBank
 💳 CypherBank - Sistema Bancário em Java
 CypherBank é um sistema bancário completo, desenvolvido em Java utilizando a arquitetura MVC (Model-View-Controller) e a biblioteca Swing para interface gráfica. O projeto simula funcionalidades essenciais de um banco digital moderno, com uma experiência visual intuitiva, elegante e funcional. 
 Tecnologias Utilizadas:
